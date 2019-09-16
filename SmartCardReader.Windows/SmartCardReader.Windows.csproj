@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Test\SmartCardSignerApi.csproj" />
+    <ProjectReference Include="..\SmartCardSignerApi\SmartCardSignerApi.csproj" />
   </ItemGroup>
 
   <ItemGroup>

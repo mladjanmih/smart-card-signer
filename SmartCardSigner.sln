@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartCardSignerApi", "Test\SmartCardSignerApi.csproj", "{E022C890-FFFD-4705-802C-5C22BFC4CDB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartCardSignerApi", "SmartCardSignerApi\SmartCardSignerApi.csproj", "{E022C890-FFFD-4705-802C-5C22BFC4CDB0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartCardReader.Windows", "SmartCardReader.Windows\SmartCardReader.Windows.csproj", "{6E0D7FD7-CBA1-4C19-B0ED-0FAC55EBA7D8}"
 EndProject
